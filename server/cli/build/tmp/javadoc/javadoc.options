@@ -1,0 +1,13 @@
+-Xdoclint:all,-missing '-quiet'
+-classpath '/home/e100020/Gooru/elasticsearch/server/cli/build/classes/java/main:/home/e100020/Gooru/elasticsearch/server/cli/build/resources/main:/home/e100020/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.2/98cafc6081d5632b61be2c9e60650b64ddbc637c/jopt-simple-5.0.2.jar'
+-d '/home/e100020/Gooru/elasticsearch/server/cli/build/docs/javadoc'
+-doctitle 'cli 6.3.0-SNAPSHOT API'
+-encoding 'UTF8'
+-quiet 
+-windowtitle 'cli 6.3.0-SNAPSHOT API'
+'/home/e100020/Gooru/elasticsearch/server/cli/src/main/java/org/elasticsearch/cli/SuppressForbidden.java'
+'/home/e100020/Gooru/elasticsearch/server/cli/src/main/java/org/elasticsearch/cli/MultiCommand.java'
+'/home/e100020/Gooru/elasticsearch/server/cli/src/main/java/org/elasticsearch/cli/Command.java'
+'/home/e100020/Gooru/elasticsearch/server/cli/src/main/java/org/elasticsearch/cli/ExitCodes.java'
+'/home/e100020/Gooru/elasticsearch/server/cli/src/main/java/org/elasticsearch/cli/UserException.java'
+'/home/e100020/Gooru/elasticsearch/server/cli/src/main/java/org/elasticsearch/cli/Terminal.java'

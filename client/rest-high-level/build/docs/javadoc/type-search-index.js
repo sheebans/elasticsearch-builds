@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"org.elasticsearch.client","l":"IndicesClient"},{"p":"org.elasticsearch.client","l":"Request"},{"p":"org.elasticsearch.client","l":"RestHighLevelClient"}]

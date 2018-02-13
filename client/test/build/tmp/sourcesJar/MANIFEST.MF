@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Implementation-Title: org.elasticsearch#test;6.3.0-SNAPSHOT
+Implementation-Version: 6.3.0-SNAPSHOT
+Built-Status: integration
+Built-By: e100020
+Built-OS: Linux
+Build-Date: 2018-02-12T11:29:23.696043Z
+Gradle-Version: 4.5
+Created-By: 9-Ubuntu+0-9b181-4 (Oracle Corporation)
+Build-Java-Version: 1.9
+Module-Source: /client/test
+Module-Origin: https://github.com/elastic/elasticsearch.git
+Change: 5aea53a
+Branch: 6.x
+X-Compile-Target-JDK: 1.7
+X-Compile-Source-JDK: 1.7
+X-Compile-Elasticsearch-Version: 6.3.0
+X-Compile-Lucene-Version: 7.2.1
+X-Compile-Elasticsearch-Snapshot: true
+
